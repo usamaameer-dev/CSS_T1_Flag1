@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: white
+}
+
+.flag {
+    width: 300px;
+    height: 200px;
+}
+
+.color {
+    height: 68px;
+    width: 100%;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.red {
+    background-color: #DD0000;
+}
+
+.gold {
+    background-color: #FFCE00;
+} 
